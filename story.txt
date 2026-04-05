@@ -2,3 +2,7 @@ salmon
 kana
 mehu
 olut
+<<<<<<< Updated upstream
+=======
+test
+>>>>>>> Stashed changes
