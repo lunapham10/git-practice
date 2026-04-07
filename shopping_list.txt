@@ -2,4 +2,4 @@ kana
 mehu
 olut
 milk
-kahvia
+coffee
